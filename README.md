@@ -1,3 +1,3 @@
 # digital-resume
-i crated it using HTML,CSS,BOOTSTRAP,and JAVASCRIPT.
-In this cration i taken the help of technicalhub.io
+I created it using HTML,CSS,BOOTSTRAP,and JAVASCRIPT.
+In this creation i taken the help of technicalhub.io
